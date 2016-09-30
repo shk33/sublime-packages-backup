@@ -1,0 +1,1 @@
+{"platforms": ["*"], "description": "Install monochrome icons for the Dark UI", "version": "1.0.0", "dependencies": [], "url": "https://github.com/oivva/st-boxy-addon-mono-file-icons-dark-ui", "sublime_text": ">=3103"}
